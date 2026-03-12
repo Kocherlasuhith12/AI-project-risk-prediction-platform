@@ -9,7 +9,7 @@
 | Item | Detail |
 |------|--------|
 | **Project Title** | AI-Driven Software Project Risk Analysis and Prediction Platform |
-| **Type** | Final Year / Academic Project |
+| **Type** | Third Year / Academic Project |
 | **Domain** | AI/ML + Full Stack Web Development |
 | **Tech Stack** | React + FastAPI + PostgreSQL + Scikit-learn |
 | **Model** | Random Forest Classifier (82.5% accuracy) |
