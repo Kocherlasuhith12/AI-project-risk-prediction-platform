@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Database
+*.db
+
+# Node
+node_modules/
+
+# Vite
+dist/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
