@@ -8,7 +8,7 @@
 
 | Item | Detail |
 |------|--------|
-| **Project Title** | Smart AI System for Software Project Risk Prediction and Process Optimisation |
+| **Project Title** | AI-Driven Software Project Risk Analysis and Prediction Platform |
 | **Type** | Final Year / Academic Project |
 | **Domain** | AI/ML + Full Stack Web Development |
 | **Tech Stack** | React + FastAPI + PostgreSQL + Scikit-learn |
