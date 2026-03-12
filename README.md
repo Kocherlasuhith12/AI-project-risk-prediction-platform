@@ -1,4 +1,4 @@
-# 🧠 Smart AI System for Software Project Risk Prediction and Process Optimisation
+# 🧠 AI-Driven Software Project Risk Analysis and Prediction Platform
 
 > An end-to-end AI-powered web application that predicts software project risk levels, identifies key risk factors, and recommends actionable process improvements.
 
