@@ -191,17 +191,3 @@ API Docs (Swagger UI): `http://localhost:8000/docs`
 | High client changes | Change control board, alignment meetings |
 | High code complexity | Refactoring, SOLID principles |
 
----
-
-## 👨‍💻 Team
-
-Built by: [Your Name]
-College: [Your College]
-Year: 2024–2025
-Guide: [Your Project Guide]
-
----
-
-## 📄 License
-
-MIT License — Free to use for academic purposes.
