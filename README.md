@@ -6,7 +6,7 @@
 
 ## 📋 Project Overview
 
-| Item | Detail |
+| Items | Details |
 |------|--------|
 | **Project Title** | AI-Driven Software Project Risk Analysis and Prediction Platform |
 | **Type** | Third Year / Academic Project |
@@ -60,7 +60,7 @@ smart-risk-ai/
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙️ Setup Instruction
 
 ### Prerequisites
 - Python 3.10+
@@ -76,7 +76,7 @@ git clone https://github.com/your-username/smart-risk-ai.git
 cd smart-risk-ai
 ```
 
-### 2. Train the ML Model
+### 2. Train the ML Models
 ```bash
 cd ml
 pip install pandas numpy scikit-learn joblib
