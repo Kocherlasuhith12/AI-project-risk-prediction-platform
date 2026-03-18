@@ -6,7 +6,7 @@
 
 ## 📋 Project Overview
 
-| Items | Details |
+| Item | Detail |
 |------|--------|
 | **Project Title** | AI-Driven Software Project Risk Analysis and Prediction Platform |
 | **Type** | Third Year / Academic Project |
@@ -26,7 +26,7 @@
 - 💡 **Recommendation Engine** — Rule-based process optimisation suggestions
 - 📈 **Dashboard** — Overview charts, risk distribution, project summary
 - 📂 **Reports** — Analytics across all projects with trend charts
-- 🗂️ **History** — Track all past predictions
+- 🗂️ **History** — Track all past predictions.
 
 ---
 
